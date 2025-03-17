@@ -24,6 +24,7 @@ Użyj `#`:
   ```markdown
   - Element 1  
   - Element 2  
+  - Element 3
   ```
 - **Numerowana**:  
   ```markdown
@@ -35,24 +36,13 @@ Użyj `#`:
 - `[Tekst](https://adres.com)` → [Tekst](https://adres.com)  
 - `![Opis](https://adres.com/obraz.png)`
 
-#### **Kod i cytaty**  
-- `Inline: \`kod\`` → `kod`  
-- Blok kodu:  
-  ```JS  
-  document.write("Hello");  
-  ```
-- Cytat:  
-  > Cytowany tekst  
-
 #### **Tabele**  
 ```markdown
-| Kolumna 1 | Kolumna 2 |
-|-----------|-----------|
-| Wartość 1 | Wartość 2 |
+| Kolumna 1 | Kolumna 2 | Kolumna 3 |
+|-----------|-----------|-----------| 
+| Wartość 1 | Wartość 2 | Wartość 3 |
 ```
 
 #### **Linia pozioma**  
-`---`  
-
-To wszystko! 🚀
+`--------------------`  
 
