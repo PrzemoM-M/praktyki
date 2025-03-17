@@ -15,8 +15,8 @@ Użyj `#`:
 ```
 
 #### **Tekst**  
-- **Pogrubienie**: `**tekst**` → **tekst**  
-- *Kursywa*: `*tekst*` → *tekst*  
+- **Pogrubienie**: `**tekst**` -> **tekst**  
+- *Kursywa*: `*tekst*` -> *tekst*  
 - ***Pogrubiona kursywa***: `***tekst***`  
 
 #### **Listy**  
@@ -33,8 +33,8 @@ Użyj `#`:
   ```
 
 #### **Linki i obrazy**  
-- `[Tekst](https://adres.com)` → [Tekst](https://adres.com)  
-- `![Opis](https://adres.com/obraz.png)`
+- `[Tekst](https://adres.com)` -> [Tekst](https://adres.com)  
+- `![Opis](https://adres.com/obraz.png)` 
 
 #### **Tabele**  
 ```markdown
