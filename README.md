@@ -38,15 +38,11 @@ Użyj `#`:
 #### **Kod i cytaty**  
 - `Inline: \`kod\`` → `kod`  
 - Blok kodu:  
-  ```markdown
   ```JS  
-  document.write("Hello")  
-  ```
+  document.write("Hello");  
   ```
 - Cytat:  
-  ```markdown
   > Cytowany tekst  
-  ```
 
 #### **Tabele**  
 ```markdown
