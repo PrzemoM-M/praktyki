@@ -34,6 +34,16 @@ Użyj `#`:
 - `[Tekst](https://adres.com)` -> [Tekst](https://adres.com)  
 - `![Opis](https://adres.com/obraz.png)` 
 
+```javascript
+// Funkcja dodająca dwie liczby
+function dodaj(a, b) {
+  return a + b;
+}
+
+// Wywołanie funkcji
+let wynik = dodaj(3, 4);
+console.log(wynik);  // Wynik: 7
+
 #### **Tabele**  
 ```markdown
 | Kolumna 1 | Kolumna 2 | Kolumna 3 |
