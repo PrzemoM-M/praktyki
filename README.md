@@ -1,6 +1,8 @@
 # README
 
-**Markdown** jest to język znaczników do formatowania tekstu. Używany w dokumentacji i README.  
+## Markdown – szybki start  
+
+**Markdown** to prosty język znaczników do formatowania tekstu. Używany w dokumentacji, blogach i README.  
 
 ### **Podstawy składni**  
 
@@ -40,7 +42,6 @@ Użyj `#`:
   ```JS  
   document.write("Hello")  
   ```
-  Hello
   ```
 - Cytat:  
   ```markdown
@@ -56,4 +57,6 @@ Użyj `#`:
 
 #### **Linia pozioma**  
 `---`  
+
+To wszystko! 🚀
 
