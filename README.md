@@ -34,6 +34,8 @@ Użyj `#`:
 - `[Tekst](https://adres.com)` -> [Tekst](https://adres.com)  
 - `![Opis](https://adres.com/obraz.png)` 
 
+
+#### **Kod w MD** 
 ```javascript
 // Funkcja dodająca dwie liczby
 function dodaj(a, b) {
