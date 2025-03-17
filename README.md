@@ -43,7 +43,7 @@ function dodaj(a, b) {
 // Wywołanie funkcji
 let wynik = dodaj(3, 4);
 console.log(wynik);  // Wynik: 7
-
+```
 #### **Tabele**  
 ```markdown
 | Kolumna 1 | Kolumna 2 | Kolumna 3 |
