@@ -46,6 +46,13 @@ function dodaj(a, b) {
 let wynik = dodaj(3, 4);
 console.log(wynik);  // Wynik: 7
 ```
+
+### Wyjaśnienie:
+- W pliku Markdown używamy potrójnych apostrofów (```) do zapisania bloków kodu.
+- Możemy określić język (np. `javascript`), co pozwala na odpowiednie podświetlanie składni w edytorach.
+
+W ten sposób cały plik zawiera zarówno dokumentację, jak i przykład kodu w JavaScript.
+
 #### **Tabele**  
 ```markdown
 | Kolumna 1 | Kolumna 2 | Kolumna 3 |
