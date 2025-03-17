@@ -40,6 +40,7 @@ Użyj `#`:
   ```JS  
   document.write("Hello")  
   ```
+  Hello
   ```
 - Cytat:  
   ```markdown
