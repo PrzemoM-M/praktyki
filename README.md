@@ -15,7 +15,7 @@ Użyj `#`:
 #### **Tekst**  
 - **Pogrubienie**: `**tekst**` -> **tekst**  
 - *Kursywa*: `*tekst*` -> *tekst*  
-- ***Pogrubiona kursywa***: `***tekst***`  
+- ***Pogrubiona kursywa***: `***tekst***`  -> ***tekst***
 
 #### **Listy**  
 - **Nienumerowana**:  
