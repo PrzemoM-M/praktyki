@@ -1,6 +1,4 @@
-# README
-
-## Markdown – szybki start  
+# README  
 
 **Markdown** to prosty język znaczników do formatowania tekstu. Używany w dokumentacji, blogach i README.  
 
