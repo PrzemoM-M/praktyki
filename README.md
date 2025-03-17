@@ -37,8 +37,8 @@ Użyj `#`:
 - `Inline: \`kod\`` → `kod`  
 - Blok kodu:  
   ```markdown
-  ```python  
-  print("Hello")  
+  ```JS  
+  document.write("Hello")  
   ```
   ```
 - Cytat:  
